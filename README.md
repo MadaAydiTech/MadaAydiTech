@@ -1,6 +1,7 @@
 <div align="center">
 
-![alt text](<Linkedin ma bannière perso-1.png>)
+<img width="1584" height="396" alt="Linkedin ma bannière perso" src="https://github.com/user-attachments/assets/3c9b3883-9a71-4e73-8160-e59b875d9bec" />
+
 
 <br/>
 
@@ -27,7 +28,8 @@ Je documente mes SAE et projets de BUT sur GitHub pour suivre ma progression et 
 </td>
 <td width="42%" align="center">
 
-![alt text](undraw_plug-in_hy0z-1.png)
+<img width="1920" height="1287" alt="undraw_plug-in_hy0z" src="https://github.com/user-attachments/assets/dd8e2280-94ad-4e3a-a827-5a97b019f7a3" />
+
 
 </td>
 </tr>
